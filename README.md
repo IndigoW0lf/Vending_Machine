@@ -1,5 +1,5 @@
-#Vending Machine Software Capstone Project
-####Kai Indigo Wolf and Emma Wang
+# Vending Machine Software Capstone Project
+#### Kai Indigo Wolf and Emma Wang
 _____________________________________________________________________
 
 ### Purpose of Project
