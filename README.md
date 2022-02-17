@@ -1,6 +1,6 @@
-# <center>Vending Machine Software Capstone Project
-<center> Kai Indigo Wolf and Emma Wang </center>
-<center>_____________________________________________________________________</center>
+#Vending Machine Software Capstone Project
+####Kai Indigo Wolf and Emma Wang
+_____________________________________________________________________
 
 ### Purpose of Project
 
@@ -47,8 +47,3 @@
 
 >Note: This project was created over the course of four days after four weeks of an intensive Java Development bootcamp through Tech Elevator.
 
-
-
-
-
-# Vending_Machine
